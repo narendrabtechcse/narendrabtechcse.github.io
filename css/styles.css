@@ -24,7 +24,7 @@
     font-size: 20px;
 }
 .text-teal{
-    color: #002f2f !important;
+    color: #007e33 !important;
     text-shadow: 0 0 2px white;
 }
 /* ------------------ Courses Image ------------ */
@@ -88,4 +88,7 @@
 }
 .text-teal2{
     color: #fbc846;
+}
+.contactus{
+    font-size: 20px;
 }
